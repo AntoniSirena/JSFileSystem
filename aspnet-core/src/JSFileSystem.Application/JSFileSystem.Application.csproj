@@ -14,4 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\JSFileSystem.Core\JSFileSystem.Core.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\Student\Dto\" />
+  </ItemGroup>
 </Project>
